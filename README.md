@@ -1,5 +1,5 @@
 
-# 🚀 Google Advanced Data Analytics Portfolio Projects
+#🚀 Google Advanced Data Analytics Portfolio Projects
 
 Welcome to my Data Analytics & Python project repository! This repository contains end-to-end Exploratory Data Analysis (EDA) projects developed as part of the **Google Advanced Data Analytics** coursework. 
 
